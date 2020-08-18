@@ -1,0 +1,2 @@
+# smtpman
+smtpman test
